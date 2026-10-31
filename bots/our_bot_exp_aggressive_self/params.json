@@ -1,0 +1,13 @@
+{
+  "self_shot_p_threshold": 0.2,
+  "hand_saw_multiplayer_max": 4,
+  "juice_heal_threshold": 4,
+  "threat_weight_saw": 25.0,
+  "threat_weight_mag": 15.0,
+  "threat_weight_float": 10.0,
+  "threat_weight_juice": 5.0,
+  "leader_pressure_weight": 5.0,
+  "lethal_base_bonus": 500.0,
+  "lethal_threat_multiplier": 10.0,
+  "next_player_danger_weight": 10.0
+}
